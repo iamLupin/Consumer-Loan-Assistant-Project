@@ -4,7 +4,7 @@ This project will help you get a handle on consumer debt. The Consumer Loan Assi
 
 # overview
 In this project, we will build a consumer loan assistant. You input a loan balance and yearly interest rate. You then have two options: (1) enter the desired number of payments and the loan assistant computes the monthly payment, or (2) enter the desired monthly payment and the loan assistant determines the number of payments you will make. An analysis of your loan, including total of payments and interest paid is also provided. The finished project is saved as Consumer-Loan-Assistant-Project 
-
+![image](https://user-images.githubusercontent.com/44014352/125300377-952efd80-e347-11eb-936d-e3a3781cbf29.png)
 
 
 All label controls are used for title information. Two button controls are used to compute results and to start a new analysis. Two small button controls (marked with X; only one is seen at a time) control whether you compute the number of payments or the payment amount. One button exits the project. Four text field controls are used for inputs and a large text area is used to present the loan analysis results. The loan assistant appears as:
@@ -17,6 +17,7 @@ In this initial configuration, you enter a Loan Balance, an Interest Rate (annua
 
 So, if I borrow $10,000 at 5.5% interest, I will pay $301.96 for three years (36 months). More specific details on exact payment amounts, including total interest paid, is shown under Loan Analysis. At this point, you can click New Loan Analysis to try some new values:
 
+![image](https://user-images.githubusercontent.com/44014352/125300435-a6780a00-e347-11eb-87a9-a1b08026a7e3.png)
 
 
 Note the Loan Balance, Interest Rate, and Number of Payments entries remain. Only the Monthly Payment and the Loan Analysis have been cleared. This lets you try different values with minimal typing of new entries. Change any entry you like to see different results – or even change them all. Try as many combinations as you like. At some point, clear the text fields and click the button with an X next to the Number of Payments text field. You will see:
